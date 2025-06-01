@@ -9,8 +9,8 @@ This project is structured into two main folders:
 
 ## 📁 Project Structure
 root/ <br/>
-├── frontend/ # React frontend with Vite <br/>
-├── backend/ # Node.js backend with Express and Nodemon <br/>
+├── frontend/  <br/>
+├── backend/  <br/>
 └── README.md <br/>
 
 
